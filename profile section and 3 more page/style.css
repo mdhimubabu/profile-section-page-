@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top-nav{
+    background-color: #3182ce;
+    text-align: center;
+    color: white;
+    font-size: 17px;
+    padding: 20px;
+}
+.profile-container{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: center;
+    text-align: center;
+   
+}
+.profile-img img{
+    height: 80px;
+}
+.profile-bottom-container{
+    text-align: center;
+    margin-top: 40px;
+}
+.profile-content-container  h2{
+text-align: center;
+  font-size: 70px;
+  width: 70%;
+  margin: auto;
+  margin-top: 40px;
+}
+.hero-container{
+    background: black;
+    color: white;
+    padding-top:100px ;
+    padding-bottom: 1110px;
+}
+h4{
+    font-size: 25px;
+}
+p{ font-size: 15px;
+    padding-right: 30px;
+    font-family: "Oswald", sans-serif;
+ 
+}
+.profile-content span{ color: #3182ce;
+}
+span{
+    color: yellow;
+    font-size: 30px;
+}
+.top-nav p{
+    font-size: 25px;
+}
